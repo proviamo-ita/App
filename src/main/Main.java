@@ -24,6 +24,9 @@ public class Main {
         
         saluto.stampa("Sono un nuovo saluto");
         
+        // Nuova aggiunta
+        saluto.stampa("Sono un altro saluto");
+        
     }
     
 }
