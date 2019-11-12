@@ -15,13 +15,4 @@ public class Saluto {
         System.out.println(msg);
     }
     
-    /**
-     * Stampa in base al sesso.
-     * @param sesso
-     * @param msg 
-     */
-    public void stampa(String sesso, String msg){
-        System.out.println(msg + ", signore");
-    }
-    
 }

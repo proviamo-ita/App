@@ -24,8 +24,6 @@ public class Main {
         
         saluto.stampa("Sono un nuovo saluto");
         
-        saluto.stampa("maschio", "Salve");
-        
     }
     
 }
