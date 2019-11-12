@@ -15,4 +15,12 @@ public class Saluto {
         System.out.println(msg);
     }
     
+    // Overloading
+    public void stampa(String msg, String gender){
+        if(gender.equals("maschio"))
+            System.out.println(msg + ", signore");
+        else
+            System.out.println(msg + ", signora");
+    }
+    
 }

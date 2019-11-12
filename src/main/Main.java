@@ -24,6 +24,8 @@ public class Main {
         
         saluto.stampa("Un saluto");
         
+        saluto.stampa("Salve", "femmina");
+        
     }
     
 }
