@@ -22,10 +22,7 @@ public class Main {
         
         Saluto saluto = new Saluto();
         
-        saluto.stampa("Sono un nuovo saluto");
-        
-        // Nuova aggiunta
-        saluto.stampa("Sono un altro saluto");
+        saluto.stampa("Sono un saluto");
         
     }
     
