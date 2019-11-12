@@ -22,7 +22,7 @@ public class Main {
         
         Saluto saluto = new Saluto();
         
-        saluto.stampa("Sono un saluto");
+        saluto.stampa("Un saluto");
         
     }
     
