@@ -5,6 +5,8 @@
  */
 package main;
 
+import classes.Saluto;
+
 /**
  *
  * @author Alessandro Quirile
@@ -17,6 +19,11 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Ciao");
+        
+        Saluto saluto = new Saluto();
+        
+        saluto.stampa("Sono un nuovo saluto");
+        
     }
     
 }
